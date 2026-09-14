@@ -8,7 +8,7 @@ Me interesa especialmente el mundo de la **Inteligencia Artificial**, el **Big D
 
 ## 🛠️ Tecnologías y conocimientos
 
-He programado en los siguientes idiomas:
+Los lenguajes de programcación con los que he trabajado son:
 
 - Python
 - Java
@@ -16,11 +16,12 @@ He programado en los siguientes idiomas:
 - Kotlin
 - SQL
 
-He estudiado sobre:
+También me he formado en:
 
 - Big Data e IA
 - Administración de bases de datos relacionales y no relacionales
-- 
+- Administración de redes en cisco packet tracer
+- Oodoo
 
 ## 🎓 Formación
 
