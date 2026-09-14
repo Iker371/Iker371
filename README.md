@@ -1,22 +1,26 @@
-<h1 align="center"> 👋 Hola, soy Iker Aimar Gomez-Espinosa Muñoz </h1>
+# Readme de Iker Aimar Gomez-Espinosa Muñoz
 
 ## 🎓 Sobre mí
 
-Estudiante del **Máster en Inteligencia Artificial y Big Data en Tajamar**, con formación previa en **Sistemas Microinformáticos y Redes (SMR)** y **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Estudiante del **Máster en Inteligencia Artificial y Big Data en Tajamar.**
 
 Me interesa especialmente el mundo de la **Inteligencia Artificial**, el **Big Data**, el **análisis de datos** y el **desarrollo de software**. Actualmente estoy enfocado en seguir aprendiendo y desarrollándome profesionalmente en el ámbito tecnológico.
 
 ## 🛠️ Tecnologías y conocimientos
 
-A lo largo de mi formación he adquirido conocimientos en diferentes áreas:
+He programado en los siguientes idiomas:
 
-- 💻 Desarrollo de aplicaciones
-- 🌐 Desarrollo web
-- 🗄️ Bases de datos
-- 🐍 Programación
-- 🖥️ Sistemas y redes
-- 🤖 Inteligencia Artificial
-- 📊 Big Data y análisis de datos
+- Python
+- Java
+- Html5
+- Kotlin
+- SQL
+
+He estudiado sobre:
+
+- Big Data e IA
+- Administración de bases de datos relacionales y no relacionales
+- 
 
 ## 🎓 Formación
 
@@ -26,11 +30,11 @@ A lo largo de mi formación he adquirido conocimientos en diferentes áreas:
 
 ### Desarrollo de Aplicaciones Multiplataforma
 
-**DAM**
+**Laguna de Joatzel**
 
 ### Sistemas Microinformáticos y Redes
 
-**SMR**
+**La Salle Griñon**
 
 ## 🌍 Idiomas
 
